@@ -7,6 +7,6 @@ Anytime there is an event, a producer then creates an event object, notifies the
 which contains all the data pecuiliar to that event. The services who are listening to that event type then consumes the event.
 
 ## Running the program
-You can run this project on your device by forking the project and running the main.py file in the project.
+You can run this project on your device by cloning the project and running the main.py file in the project.
 1. `git clone https://github.com/quamejnr/EDA.git`
 2. Run `python3 main.py`
